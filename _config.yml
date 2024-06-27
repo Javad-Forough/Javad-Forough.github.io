@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Sourasekhar Banerjee"
+title                    : "Javad Forough"
 title_separator          : "-"
-name                     : &name "Sourasekhar Banerjee"
-description              : &description "Professional website of Sourasekhar Banerjee, (M.Tech)"
-url                      : https://sourasb05.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Javad Forough"
+description              : &description "Professional website of Javad Forough, (PhD)"
+url                      : https://Javad-Forough.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sourasb05/sourasb05.github.io"
+repository               : "Javad-Forough/Javad-Forough.github.io"
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "sourasekharB"
+  username               : &twitter ""
 facebook:
   username               :
   app_id                 :
@@ -80,38 +80,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sourasekhar Banerjee"
+  name             : "Javad Forough"
   avatar           : "profile.png"
-  bio              : "Doctoral student in Federated learning."
+  bio              : "PhD in Machine Learning and Data Analysis"
   location         : "Umeå, Sweden"
   employer         : "Umeå University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.in/citations?user=x5fi0xUAAAAJ&hl=en"
-  email            : "sourasb@cs.umu.se"
-  researchgate     : "https://www.researchgate.net/profile/Sourasekhar-Banerjee"
+  googlescholar    : "https://scholar.google.com/citations?user=sENcHGwAAAAJ&hl=en"
+  email            : "javadforough@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Javad-Forough-2"
   uri              :
   bitbucket        : 
   arxiv            : 
-  dblp             : "https://https://dblp.org/pid/255/9829.html"
+  dblp             : ""
   codepen          :
   dribbble         :
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "sourasb05"
+  github           : "Javad-Forough"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sourasekhar-banerjee-7a7b707a/?originalSubdomain=se"
-  orcid            : "https://orcid.org/0000-0002-3451-2851"
+  linkedin         : "www.linkedin.com/in/javad-f-1122b7200"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "sourasekharb"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
