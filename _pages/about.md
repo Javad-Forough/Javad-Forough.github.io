@@ -15,7 +15,7 @@ With over seven years of hands-on experience, I specialize in designing and deve
 
 Throughout my career, I've had the privilege of collaborating with brilliant minds and leading several impactful research projects. Highlights include a visiting researcher stint at [Imperial College London](https://www.imperial.ac.uk/) and serving as the [WASP](https://wasp-sweden.org/) Cluster Leader for Cloud Computing and Distributed Systems. My research has garnered recognition, including prestigious awards and publications in top-tier conferences and journals.
 
-Beyond the realm of academia, I am driven by a deep-seated curiosity and a relentless pursuit of innovation. I thrive on turning complex problems into elegant solutions. When I'm not immersed in research, you might find me exploring new technologies.
+Beyond the realm of academia, I am driven by a deep-seated curiosity and a determined pursuit of innovation. I thrive on turning complex problems into elegant solutions. When I'm not immersed in research, you might find me exploring new technologies.
 
 ## News
 
