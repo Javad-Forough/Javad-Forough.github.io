@@ -31,8 +31,7 @@ Beyond the realm of academia, I am driven by a deep-seated curiosity and a relen
 ## Contact
 
 <address>
-MIT.D.241, MIT-huset, Umeå universitet, MIT.D.241<br />
-Umeå universitet <br />90187 Umeå <br /> Sweden
+MIT.D.241, MIT-huset, Umeå universitet<br />90187 Umeå <br /> Sweden
 </address>
 <br>
 
@@ -46,15 +45,15 @@ see on Google Maps
 <!-- My main line of research is in statistical machine learning. I am primarily interested in the design, analysis and implementation of statistical learning methods for high dimensional problems. My interests include (but are not limited to): PAC-Bayesian theory, sparsity and high-dimensional statistics, optimisation theory, statistical learning theory, non-negative matrix factorisation, aggregation of estimators and classifiers, MCMC algorithms, (un)supervised learning, online clustering, concentration inequalities... -->
 
 
-## CV
+<!--## CV
 
-Find my CV [here](files/Sourasekhar_banerjee_CV_new.pdf)
+Find my CV [here](files/Sourasekhar_banerjee_CV_new.pdf)-->
 
 
-### In a nutshell
+<!--### In a nutshell
 
 - 2020--present: **WASP Ph.D Student**, [Umeå University](https://www.umu.se), Sweden
 - 2018--2020: **Research Fellow**, [Indian Institute of Technology Patna](https://www.iitp.ac.in), [Department of Computer Science and engineering](), India
 - 2016--2018: **Master of Technology**, [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India
 - 2014--2016: **Master of Science**, [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India
-- 2011--2014: **Bachelor of Science (Hons.)**, [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India
+- 2011--2014: **Bachelor of Science (Hons.)**, [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India-->
