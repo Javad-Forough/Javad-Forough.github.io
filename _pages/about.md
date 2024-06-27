@@ -19,25 +19,26 @@ Beyond the realm of academia, I am driven by a deep-seated curiosity and a relen
 
 ## News
 
-[**September_1, 2023**] Received 140,000 SEK funding from WASP for the research visit to Imperial College London, UK
+[**February 23, 2024**] Successfully defended my PhD thesis called [Machine Learning for Anomaly Detection in Edge Clouds](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1832894)
 
-[**October 20, 2022**] Paper titled "Personalized Multi-tier Federated Learning" is accepted in FL-Neurips, 2022
+[**September 30, 2023**] Paper titled [Unified Identification of Anomalies on the Edge: A Hybrid Sequential PGM Approach](https://ieeexplore.ieee.org/abstract/document/10538593) is accepted in IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom).
 
-[**July 19, 2022**] Paper presented in WCCI-IJCNN, 2022 [[Slides]](files/Banerjee-Sourasekhar-1604-Optimized_and_Adaptive_Federated_Learning_for_Straggler-Resilient_Device_Selection.pdf).
+[**July 14, 2023**] Paper titled [Anomaly Detection and Resolution on the Edge: Solutions and Future Directions](https://ieeexplore.ieee.org/abstract/document/10254771) is accepted in 2023 IEEE International Conference on Service-Oriented System Engineering (SOSE).
 
-[**April 26, 2022**] Paper accepted in IEEE IJCNN, 2022 [[paper]](https://people.cs.umu.se/sonvx/files/FedMOODs-Preprint.pdf).
+[**June 1, 2023**] Awarded 150,000 SEK funding from WASP for the 4 months research visit to Imperial College London, UK.
 
 
 ## Contact
 
 <address>
-  Umeå Universitye<br />Office NAT.B2.206 Natural Science building 2nd floor (i.e., entrance floor)  <br />90187 Umeå <br /> Sweden
+MIT.D.241, MIT-huset, Umeå universitet, MIT.D.241<br />
+Umeå universitet <br />90187 Umeå <br /> Sweden
 </address>
 <br>
 
 see on Google Maps
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14082.203204109632!2d20.273157479101556!3d63.82004820000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x467c5b0c462a1e55%3A0xbd7128fb2ca54b62!2sUme%C3%A5%20universitet%20Teknisk-naturvetenskaplig%20fakultet!5e0!3m2!1sen!2sse!4v1662233112885!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3520.4852124047934!2d20.305112413369816!3d63.820572976996395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x467c5afcf4863cef%3A0xff6ae29c38e3e8b6!2sMit-huset%2C%20Linnaeus%20v%C3%A4g%2049%2C%20907%2036%20Ume%C3%A5!5e0!3m2!1sen!2sse!4v1719503242948!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!-- 
  -->
