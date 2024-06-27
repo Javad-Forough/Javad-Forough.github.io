@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my digital space! I am Javad Forough, a passionate and results-driven researcher dedicated to advancing the fields of machine learning, distributed algorithms, and data science. My academic journey has been both enriching and exhilarating, leading me to the forefront of innovative research at (Umeå University)[https://www.umu.se/en/], where I recently completed my PhD in Computer Science.
+Welcome to my digital space! I am Javad Forough, a passionate and results-driven researcher dedicated to advancing the fields of machine learning, distributed algorithms, and data science. My academic journey has been both enriching and exhilarating, leading me to the forefront of innovative research at [Umeå University](https://www.umu.se/en/), where I recently completed my PhD in Computer Science.
 
 With over seven years of hands-on experience, I specialize in designing and developing cutting-edge machine learning methods tailored for edge computing environments and financial institutions. My work often involves leveraging advanced statistical modeling, deep learning techniques, and optimization strategies to solve complex data challenges. I am particularly fascinated by the intersection of machine learning and data science, focusing on distributed and efficient learning solutions.
 
-Throughout my career, I've had the privilege of collaborating with brilliant minds and leading several impactful research projects. Highlights include a visiting researcher stint at (Imperial College London)[https://www.imperial.ac.uk/] and serving as the (WASP)[https://wasp-sweden.org/] Cluster Leader for Cloud Computing and Distributed Systems. My research has garnered recognition, including prestigious awards and publications in top-tier conferences and journals.
+Throughout my career, I've had the privilege of collaborating with brilliant minds and leading several impactful research projects. Highlights include a visiting researcher stint at [Imperial College London](https://www.imperial.ac.uk/) and serving as the [WASP](https://wasp-sweden.org/) Cluster Leader for Cloud Computing and Distributed Systems. My research has garnered recognition, including prestigious awards and publications in top-tier conferences and journals.
 
 Beyond the realm of academia, I am driven by a deep-seated curiosity and a relentless pursuit of innovation. I thrive on turning complex problems into elegant solutions. When I'm not immersed in research, you might find me exploring new technologies.
 
