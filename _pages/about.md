@@ -9,9 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my corner of the web!
-
-I am currently a **Postdoctoral Researcher** at **Imperial College London**, under supervision of [Prof. Hamed Haddadi] (https://profiles.imperial.ac.uk/h.haddadi) focusing on secure and private deployment of machine-learning (ML) models on edge devices. My research explores solutions to challenges in model privacy and auditability, aiming to ensure that proprietary ML models remain protected and operate in compliance with user agreements. This involves leveraging cutting-edge techniques in secure computing and trusted execution environments to address limitations such as high overheads and constrained capabilities of edge devices, while enabling robust and efficient ML deployment pipelines.
+I am currently a **Postdoctoral Researcher** at **Imperial College London**, under supervision of [Prof. Hamed Haddadi](https://profiles.imperial.ac.uk/h.haddadi), focusing on secure and private deployment of machine-learning (ML) models on edge devices. My research explores solutions to challenges in model privacy and auditability, aiming to ensure that proprietary ML models remain protected and operate in compliance with user agreements. This involves leveraging cutting-edge techniques in secure computing and trusted execution environments to address limitations such as high overheads and constrained capabilities of edge devices, while enabling robust and efficient ML deployment pipelines.
 
 
 
