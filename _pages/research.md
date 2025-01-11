@@ -11,7 +11,7 @@ I am interested in edge computing, applied machine learning, IoT security, and p
 
 ## Research Interests
 
-Edge Computing, Federated Learning, Machine Learning, Cybersecurity, Anomaly Detection, Privacy-Preserving Analytics, Deep Learning
+Edge Computing, Machine Learning, Deep Learning, Cybersecurity, Anomaly Detection
 
 ## Postdoctoral Research
 
