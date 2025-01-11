@@ -6,21 +6,21 @@ classes: wide
 ---
 
 
-## Peer Reviewing activities
+## Peer Reviewing Activities
 
-Served as reviewer for different journals and conferences including:
+Served as a reviewer for various journals and conferences, including:
 
-IEEE Transactions on Network and Service Management
+- IEEE Transactions on Network and Service Management
+- Applied Computing and Informatics
+- International Conference on Availability, Reliability and Security
 
-Applied Computing and Informatics
+## Teaching Assistantship
 
-International Conference on Availability, Reliability and Security
+- **Computer Security** (Umeå University, Fall 2022)
+- **Statistical Natural Language Processing** (Amirkabir University of Technology, Spring 2019)
+- **Advanced Computer Architectures** (Amirkabir University of Technology, Fall 2019)
 
-## Teaching Assistanship
+## Leadership Roles
 
-Computer Security (Umeå University, Fall, 2022)
-
-Statistical Natural Language Processing (AUT, Spring, 2019)
-
-Advanced Computer Architectures (AUT, Fall, 2019)
+- **WASP Cluster Leader** (2021): Led the Cloud Computing and Distributed Systems cluster as part of the Wallenberg AI, Autonomous Systems, and Software Program (WASP). 
 
