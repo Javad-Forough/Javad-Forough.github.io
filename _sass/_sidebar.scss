@@ -70,6 +70,7 @@
    ========================================================================== */
 
    .author__avatar {
+    outline: 3px solid red; /* Add a red border for debugging */
     display: table-cell;
     vertical-align: top;
     width: 100%; /* Allow the width to adjust responsively */
