@@ -5,10 +5,14 @@ author_profile: true
 classes: wide
 ---
 
-## My group
- 
-I am a member of [Autonomous Distributed System Labs](https://github.com/sourasb05/sourasb05.github.io/edit/master/_pages/team.md), Department of Computing Science, Umeå University, Sweden.
+## My Group
 
-Also I am a member of cyber-analytics-and-learning-group led by [Dr. Monowar Bhuyan](https://people.cs.umu.se/monowar/index.html)
+I am currently a member of the [Network and Systems Lab](https://netsys.doc.ic.ac.uk/), led by [Prof. Hamed Haddadi](https://profiles.imperial.ac.uk/h.haddadi), in the Department of Computing, Imperial College London, UK.
 
-Also I am a member of WASP graduate school. Where I am involve in two clusters, AI/ML and Cloud and Distributed System. 
+
+Previously, I was a member of the [Autonomous Distributed Systems Lab](https://www.umu.se/en/research/groups/autonomous-distributed-systems-lab/), led by [Prof. Erik Elmroth](https://people.cs.umu.se/elmroth/index.html), in the Department of Computing Science, Umeå University, Sweden.
+
+
+I was also part of the Cyber-Analytics and Learning Group led by [Dr. Monowar Bhuyan](https://people.cs.umu.se/monowar/index.html) during my Ph.D.
+
+Additionally, I was an active member of the WASP Graduate School, participating in two clusters: Anomaly detection cluster and Cloud and Distributed Systems cluster.
