@@ -27,20 +27,6 @@ Previously, I was a **Doctoral (Ph.D.) Student** in Computer Science at [Umeå U
 
 
 
-## Contact
-
-<address>
-Translation & Innovation Hub (I-Hub)<br />
-84 wood Lane, W12 0BZ<br />
-London<br />
-United Kingdom
-</address>
-<br>
-
-see on Google Maps
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.860453197622!2d-0.2244906!3d51.515776100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487610284ec458a5%3A0x2d02eef5b80a7bb0!2sI-HUB!5e0!3m2!1sen!2suk!4v1736552805081!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 ### In a nutshell
 
