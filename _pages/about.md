@@ -41,6 +41,7 @@ Previously, I was a **Doctoral (Ph.D.) Student** in Computer Science at [Umeå U
 ### In a nutshell
 
 - **2025–present:** **Postdoctoral Researcher**, Imperial College London, UK
+- **Oct 2024–Jan 2025:** **Machine Learning Engineer**, OpenNebula Systems, Sweden
 - **2020–2024:** **Ph.D. in Computer Science**, Umeå University, Sweden
 - **2017–2019:** **Master of Science in Computer Software Engineering**, Amirkabir University, Iran
 - **2011–2016:** **Bachelor of Science in Computer Software Engineering**, Iran University of Science and Technology, Iran
