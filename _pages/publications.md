@@ -15,13 +15,19 @@ You can find my publications on the following links.
 
 ## Selected Recent Publications
 
-**Reinforced model selection for resource efficient anomaly detection in edge clouds**  
-Javad Forough, Monowar Bhuyan, Erik Elmroth  
-*Future Generation Computer Systems*, Vol. 176, 2026. [DOI: 10.1016/j.future.2025.108161](https://doi.org/10.1016/j.future.2025.108161)
+**AgenTEE: Confidential LLM Agent Execution on Edge Devices**  
+*EuroMLSys 2026*.
+
+**Towards Graph-Based Detection of Jailbreak and Prompt-Leakage Attacks in LLMs**  
+*EuroMLSys 2026*.
 
 **Dynamic Probabilistic Noise Injection for Membership Inference Defense** (DynaNoise)  
 Javad Forough, Hamed Haddadi  
-*Preprint*, 2025. [arXiv:2505.13362](https://arxiv.org/abs/2505.13362)
+*Proceedings on Privacy Enhancing Technologies (PETS)*, 2026. [arXiv:2505.13362](https://arxiv.org/abs/2505.13362)
+
+**Reinforced model selection for resource efficient anomaly detection in edge clouds**  
+Javad Forough, Monowar Bhuyan, Erik Elmroth  
+*Future Generation Computer Systems*, Vol. 176, 2026. [DOI: 10.1016/j.future.2025.108161](https://doi.org/10.1016/j.future.2025.108161)
 
 **Efficient Anomaly Detection for Edge Clouds: Mitigating Data and Resource Constraints**  
 *IEEE Access*, December 2024.

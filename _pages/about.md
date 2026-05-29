@@ -21,11 +21,11 @@ Previously, I was a **Doctoral (Ph.D.) Student** in Computer Science at [Umeå U
 
 ## News
 
-New work on *AgenTEE: Confidential LLM Agent Execution on Edge Devices*.
+[**March 2026**] Our paper *AgenTEE: Confidential LLM Agent Execution on Edge Devices* was accepted at EuroMLSys 2026.
 
-New work on *Towards Graph-Based Detection of Jailbreak and Prompt-Leakage Attacks in LLMs*.
+[**March 2026**] Our paper *Towards Graph-Based Detection of Jailbreak and Prompt-Leakage Attacks in LLMs* was accepted at EuroMLSys 2026.
 
-[**2026**] Our paper *DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks* is now available as a preprint.
+[**March 2026**] Our paper *DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks* was accepted at PETS 2026.
 
 [**September 2025**] Our paper *Reinforced model selection for resource efficient anomaly detection in edge clouds* was published in Future Generation Computer Systems.
 
