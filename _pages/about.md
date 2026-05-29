@@ -21,42 +21,42 @@ My recent work develops a coherent line from model-level privacy and LLM robustn
 
 <div class="research-tiles" data-aos="fade-up">
   <div class="research-tile">
-    <div class="tile-icon">🔒</div>
+    <div class="tile-icon"><i class="fas fa-lock"></i></div>
     <div class="tile-content">
       <h4>Model Privacy</h4>
       <p>Membership-inference risk mitigation for deployed ML models</p>
     </div>
   </div>
   <div class="research-tile">
-    <div class="tile-icon">🛡️</div>
+    <div class="tile-icon"><i class="fas fa-shield-alt"></i></div>
     <div class="tile-content">
       <h4>LLM Robustness</h4>
       <p>Prompt-leakage and jailbreak resilience for deployed LLMs</p>
     </div>
   </div>
   <div class="research-tile">
-    <div class="tile-icon">⚙️</div>
+    <div class="tile-icon"><i class="fas fa-microchip"></i></div>
     <div class="tile-content">
       <h4>Agent Execution</h4>
       <p>Confidential and protected execution for LLM agents on edge devices</p>
     </div>
   </div>
   <div class="research-tile">
-    <div class="tile-icon">🧠</div>
+    <div class="tile-icon"><i class="fas fa-database"></i></div>
     <div class="tile-content">
       <h4>Agent Memory</h4>
       <p>Privacy-aware memory and enforced erasure for agentic AI</p>
     </div>
   </div>
   <div class="research-tile">
-    <div class="tile-icon">🤝</div>
+    <div class="tile-icon"><i class="fas fa-user-secret"></i></div>
     <div class="tile-content">
       <h4>Private Interaction</h4>
       <p>Privacy-preserving cryptographic protocols for agent negotiation</p>
     </div>
   </div>
   <div class="research-tile">
-    <div class="tile-icon">✅</div>
+    <div class="tile-icon"><i class="fas fa-check-circle"></i></div>
     <div class="tile-content">
       <h4>Verifiable Execution</h4>
       <p>Compound attestation and trusted infrastructure for AI workloads</p>
