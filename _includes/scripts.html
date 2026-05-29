@@ -1,4 +1,30 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<!-- AOS -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>AOS.init({ duration: 650, once: true, offset: 40 });</script>
+<!-- Typed.js -->
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var el = document.getElementById('typed-tagline');
+    if (el) {
+      new Typed('#typed-tagline', {
+        strings: [
+          'Trustworthy AI Systems.',
+          'Privacy-Preserving ML.',
+          'Robust AI Agents.',
+          'Verifiable AI Infrastructure.'
+        ],
+        typeSpeed: 48,
+        backSpeed: 28,
+        backDelay: 2200,
+        loop: true,
+        cursorChar: '|'
+      });
+    }
+  });
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
