@@ -61,8 +61,7 @@ The research evaluated clustering algorithms for handling high-dimensional strea
 | 2023 | **WASP International Research Visit Grant** — 150,000 SEK | Imperial College London |
 | 2021 | **WASP Cluster Leader** — Cloud Computing and Distributed Systems | Wallenberg AI Program |
 | 2019 | **Department Rank #1** — Computer Engineering and IT, GPA 19.14/20 | Amirkabir University |
-
-- Direct Ph.D. nomination by Amirkabir University of Technology
-- Erasmus scholarship for University Paris-Est Créteil (UPEC), France
-- Among top 0.3% of accepted applicants in M.Sc. national entrance exam
-- Among top 0.1% of accepted applicants in B.Sc. national entrance exam
+| 2019 | **Direct Ph.D. Nomination** — nominated directly without M.Sc. defence | Amirkabir University |
+| 2018 | **Erasmus Scholarship** — University Paris-Est Créteil (UPEC), France | Erasmus Programme |
+| 2017 | **Top 0.3%** — M.Sc. national entrance exam | Iran |
+| 2011 | **Top 0.1%** — B.Sc. national entrance exam | Iran |
