@@ -19,6 +19,7 @@ You can find my publications on the following links.
 *EuroMLSys 2026*.
 
 **Towards Graph-Based Detection of Jailbreak and Prompt-Leakage Attacks in LLMs**  
+Javad Forough, M. M. Maheri, Hamed Haddadi  
 *EuroMLSys 2026*.
 
 **Dynamic Probabilistic Noise Injection for Membership Inference Defense** (DynaNoise)  
@@ -30,10 +31,12 @@ Javad Forough, Monowar Bhuyan, Erik Elmroth
 *Future Generation Computer Systems*, Vol. 176, 2026. [DOI: 10.1016/j.future.2025.108161](https://doi.org/10.1016/j.future.2025.108161)
 
 **Efficient Anomaly Detection for Edge Clouds: Mitigating Data and Resource Constraints**  
-*IEEE Access*, December 2024.
+Javad Forough, Hamed Haddadi, Monowar H. Bhuyan, Erik Elmroth  
+*IEEE Access*, 2024.
 
-**DELA: Data-Efficient Learning with Auxiliary Labels at the Edge**  
-*ICDCS 2022*.
+**DELA: A Deep Ensemble Learning Approach for Cross-Layer VSI-DDoS Detection on the Edge**  
+Javad Forough, Monowar H. Bhuyan, Erik Elmroth  
+*Proc. 42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022)*. **[CORE Rank A]**
 
 ---
 

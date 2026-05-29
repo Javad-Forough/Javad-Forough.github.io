@@ -53,11 +53,15 @@ September '11 – September '16
 The research evaluated clustering algorithms for handling high-dimensional streaming data, emphasizing scalability and adaptability to real-time data processing scenarios.
 
 
-## Honors
+## Honors & Awards
 
-- Awarded 150,000 SEK by WASP for a research visit to Imperial College London
-- Selected as WASP cluster leader for Cloud Computing and Distributed Systems
-- Ranked #1 in Computer Engineering and Information Technology at Amirkabir University of Technology
+| Year | Award | Institution |
+|------|-------|-------------|
+| 2025 | **EPSRC Open Plus Fellowship** — Securing the Next Billion Consumer Devices on the Edge | Imperial College London |
+| 2023 | **WASP International Research Visit Grant** — 150,000 SEK | Imperial College London |
+| 2021 | **WASP Cluster Leader** — Cloud Computing and Distributed Systems | Wallenberg AI Program |
+| 2019 | **Department Rank #1** — Computer Engineering and IT, GPA 19.14/20 | Amirkabir University |
+
 - Direct Ph.D. nomination by Amirkabir University of Technology
 - Erasmus scholarship for University Paris-Est Créteil (UPEC), France
 - Among top 0.3% of accepted applicants in M.Sc. national entrance exam
