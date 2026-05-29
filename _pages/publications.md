@@ -11,10 +11,27 @@ You can find my publications on the following links.
    
 <a href="https://scholar.google.com/citations?user=sENcHGwAAAAJ&hl=en"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>   
 <a href="https://www.researchgate.net/profile/Javad-Forough-2"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>   
- 
 
 
-The list of publication fetched from DBLP
+## Selected Recent Publications
+
+**Reinforced model selection for resource efficient anomaly detection in edge clouds**  
+Javad Forough, Monowar Bhuyan, Erik Elmroth  
+*Future Generation Computer Systems*, Vol. 176, 2026. [DOI: 10.1016/j.future.2025.108161](https://doi.org/10.1016/j.future.2025.108161)
+
+**Dynamic Probabilistic Noise Injection for Membership Inference Defense** (DynaNoise)  
+Javad Forough, Hamed Haddadi  
+*Preprint*, 2025. [arXiv:2505.13362](https://arxiv.org/abs/2505.13362)
+
+**Efficient Anomaly Detection for Edge Clouds: Mitigating Data and Resource Constraints**  
+*IEEE Access*, December 2024.
+
+**DELA: Data-Efficient Learning with Auxiliary Labels at the Edge**  
+*ICDCS 2022*.
+
+---
+
+The full publication list is fetched from DBLP:
 
 <script src="https://bibbase.org/show?bib=https://dblp.org/pid/285/3540.bib&jsonp=1"></script>
 

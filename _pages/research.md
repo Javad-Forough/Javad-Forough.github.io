@@ -7,19 +7,26 @@ classes: wide
 
 ## Topics
 
-I am interested in edge computing, applied machine learning, IoT security, and privacy. My work focuses on addressing challenges in secure and private machine learning deployment on edge devices, including model privacy, auditability, and efficient execution.
+My research sits at the intersection of AI systems, security, and privacy. I work on making AI systems trustworthy — private, robust, auditable, and safely deployable in real-world edge and cloud environments.
 
 ## Research Interests
 
-Edge Computing, Machine Learning, Deep Learning, Cybersecurity, Anomaly Detection
+Trustworthy AI Systems, Privacy-Preserving Machine Learning, LLM Robustness, AI Agents, Trusted Execution Environments, Confidential Computing, Anomaly Detection, Edge Computing
 
 ## Postdoctoral Research
 
-**Secure and Private Machine Learning Deployment on Edge Devices**
+**Trustworthy AI Systems**
 
 January '25 – Present
 
-As a Postdoctoral Researcher at Imperial College London, my work focuses on addressing challenges in deploying machine learning models on edge devices. The research involves ensuring model privacy, auditability, and efficient operation in resource-constrained environments. This includes exploring trusted execution environments and secure computing architectures for robust ML pipelines.
+As a Postdoctoral Researcher at Imperial College London, I work on a coherent line of research around trustworthy AI:
+
+- **Model privacy:** membership-inference risk mitigation for deployed ML models
+- **LLM robustness:** prompt-leakage and jailbreak resilience
+- **Agent execution:** confidential/protected execution for LLM agents on edge devices
+- **Agent memory:** privacy-aware memory and enforced erasure for agentic AI
+- **Private agent interaction:** privacy-preserving protocols for agent negotiation
+- **Verifiable execution:** compound attestation and trusted infrastructure for AI workloads
 
 ## Ph.D. Project
 

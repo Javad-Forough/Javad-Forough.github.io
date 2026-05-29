@@ -9,15 +9,25 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at Imperial College London and a member of the [Network and Systems Lab](https://netsys.doc.ic.ac.uk/index.html), under the supervision of [Prof. Hamed Haddadi](https://profiles.imperial.ac.uk/h.haddadi). My work focuses on secure and private deployment of machine-learning (ML) models on edge devices. My research explores solutions to challenges in model privacy and auditability, aiming to ensure that proprietary ML models remain protected and operate in compliance with user agreements. This involves leveraging cutting-edge techniques in secure computing and trusted execution environments to address limitations such as high overheads and constrained capabilities of edge devices, while enabling robust and efficient ML deployment pipelines.
+I am a Postdoctoral Researcher at Imperial College London's [Network and Systems Lab](https://netsys.doc.ic.ac.uk/index.html), working with [Prof. Hamed Haddadi](https://profiles.imperial.ac.uk/h.haddadi). My research focuses on trustworthy AI systems, robust AI agents, privacy-preserving machine learning, and verifiable AI infrastructure.
+
+My recent work develops a coherent line from model-level privacy and LLM robustness to agent memory, private agent interaction, and trusted execution for deployed AI systems. I am particularly interested in making AI systems more private, robust, auditable, and deployable in real-world edge/cloud environments.
 
 
 
-Previously, I was a **Doctoral (Ph.D.) Student** in Computer Science at [Umeå University](https://www.umu.se/en/), Sweden, funded by the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My Ph.D. research was supervised by [Prof. Erik Elmroth](https://people.cs.umu.se/elmroth/index.html) and [Dr. Monowar Bhuyan](https://people.cs.umu.se/monowar/index.html), and I was a member of the [Autonomous Distributed Systems Lab](https://www.umu.se/en/research/groups/autonomous-distributed-systems-lab/).
+Previously, I was a **Doctoral (Ph.D.) Student** in Computer Science at [Umeå University](https://www.umu.se/en/), Sweden, funded by the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My Ph.D. research was supervised by [Prof. Erik Elmroth](https://people.cs.umu.se/elmroth/index.html), and I was a member of the [Autonomous Distributed Systems Lab](https://www.umu.se/en/research/groups/autonomous-distributed-systems-lab/).
 
 
 
 ## News
+
+New work on *AgenTEE: Confidential LLM Agent Execution on Edge Devices*.
+
+New work on *Towards Graph-Based Detection of Jailbreak and Prompt-Leakage Attacks in LLMs*.
+
+[**2026**] Our paper *DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks* is now available as a preprint.
+
+[**September 2025**] Our paper *Reinforced model selection for resource efficient anomaly detection in edge clouds* was published in Future Generation Computer Systems.
 
 [**January 2025**] Started as Postdoctoral Researcher at Imperial College London.
 
