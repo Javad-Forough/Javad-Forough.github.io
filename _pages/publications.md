@@ -13,7 +13,7 @@ classes: wide
 
 <div class="pub-card" data-aos="fade-up">
   <div class="pub-title">AgenTEE: Confidential LLM Agent Execution on Edge Devices</div>
-  <div class="pub-authors">Javad Forough et al.</div>
+  <div class="pub-authors">Sina Abdollahi, Mohammad M. Maheri, Javad Forough, Amir Al Sadi, Josh Millar, David Kotz, Marios Kogias, Hamed Haddadi</div>
   <div class="pub-meta">
     <span class="pub-venue euromlsys">EuroMLSys 2026</span>
   </div>
