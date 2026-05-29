@@ -60,16 +60,31 @@ h1, h2, h3, h4, h5 {
 
 /* ---------- Sidebar ---------- */
 
-.author__avatar img {
+.author__avatar {
+  width: 160px !important;
+  height: 160px !important;
   border-radius: 50% !important;
+  overflow: hidden !important;
   border: 3px solid var(--blue-accent) !important;
   box-shadow: 0 0 0 6px rgba(14, 165, 233, 0.12), 0 8px 32px rgba(10, 22, 40, 0.18) !important;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  transition: box-shadow 0.3s ease, transform 0.3s ease !important;
+  display: block !important;
+  margin: 0 auto !important;
 }
 
-.author__avatar img:hover {
+.author__avatar:hover {
   box-shadow: 0 0 0 10px rgba(14, 165, 233, 0.22), 0 14px 48px rgba(10, 22, 40, 0.24) !important;
   transform: scale(1.03);
+}
+
+.author__avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 .author__name {
