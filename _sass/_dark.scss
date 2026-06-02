@@ -11,14 +11,38 @@ body,
 .page__content,
 .archive,
 .sidebar,
+.wrapper,
+.page__footer,
 .page__footer-follow,
-.page__footer-copyright {
+.page__footer-copyright,
+.nav__list,
+.toc,
+.toc__menu {
   background-color: #0d1117 !important;
   color: #e2e8f0;
 }
 
-/* Override the compiled white html background */
 html { background: #0d1117 !important; }
+
+/* Sidebar icons and text */
+.author__urls li,
+.author__urls li i,
+.author__urls-wrapper li,
+.sidebar li,
+.sidebar li i,
+.sidebar i,
+.author__content i,
+.fa-map-marker,
+.fa-fw {
+  color: #8b9ab0 !important;
+}
+
+.author__urls a i,
+.sidebar a i {
+  color: #8b9ab0 !important;
+}
+
+.author__urls a:hover i { color: #38bdf8 !important; }
 
 /* Page headings */
 .page__content h2 {
@@ -36,19 +60,13 @@ html { background: #0d1117 !important; }
 
 .page__content h4 { color: #e2e8f0 !important; }
 
-.page__content p {
-  color: #cbd5e1;
-  line-height: 1.75;
-}
+.page__content p { color: #cbd5e1 !important; line-height: 1.75; }
 
-.page__content a {
-  color: #38bdf8 !important;
-  transition: color 0.2s;
-}
-
+.page__content a { color: #38bdf8 !important; }
 .page__content a:hover { color: #7dd3fc !important; }
-
-.page__content strong { color: #e2e8f0; }
+.page__content strong { color: #e2e8f0 !important; }
+.page__content li { color: #cbd5e1 !important; }
+.page__content td { color: #cbd5e1 !important; }
 
 /* Author sidebar text */
 .author__name { color: #e2e8f0 !important; }
@@ -290,5 +308,31 @@ html { background: #0d1117 !important; }
 /* News section headings */
 .page__content p strong { color: #e2e8f0; }
 
-/* Service / plain content pages */
-.page__content li { color: #cbd5e1; }
+/* Archive / Talks / Service pages */
+.archive__item-title a { color: #38bdf8 !important; }
+.archive__item-excerpt { color: #8b9ab0 !important; }
+.archive__item { background: transparent !important; }
+.list__item { background: transparent !important; }
+.page__taxonomy { color: #8b9ab0 !important; }
+
+/* Breadcrumbs */
+.breadcrumbs { background: #161b22 !important; }
+.breadcrumbs li { color: #8b9ab0 !important; }
+
+/* Talks entries */
+.talk-title { color: #e2e8f0 !important; }
+h2.archive__subtitle { color: #38bdf8 !important; border-bottom-color: #253047 !important; }
+
+/* Make sure no white gaps at page bottom */
+#main,
+#page,
+.page__hero,
+.layout--single,
+.layout--archive {
+  background-color: #0d1117 !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-track { background: #0d1117; }
+::-webkit-scrollbar-thumb { background: #253047; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #38bdf8; }
