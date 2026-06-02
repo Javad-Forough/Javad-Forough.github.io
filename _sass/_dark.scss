@@ -24,25 +24,51 @@ body,
 
 html { background: #0d1117 !important; }
 
+/* Sidebar — remove box on desktop (caused by _custom.scss override) */
+@media (min-width: 925px) {
+  .author__urls {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+}
+
 /* Sidebar icons and text */
-.author__urls li,
-.author__urls li i,
-.author__urls-wrapper li,
-.sidebar li,
-.sidebar li i,
 .sidebar i,
-.author__content i,
-.fa-map-marker,
-.fa-fw {
-  color: #8b9ab0 !important;
-}
-
+.sidebar .fa,
+.sidebar .fas,
+.sidebar .fab,
+.sidebar .fa-fw,
+.sidebar .fa-map-marker,
+.sidebar .fa-envelope,
+.sidebar .fa-link,
+.sidebar .fa-graduation-cap,
+.author__urls li i,
 .author__urls a i,
-.sidebar a i {
+.author__urls-wrapper li i {
   color: #8b9ab0 !important;
 }
 
-.author__urls a:hover i { color: #38bdf8 !important; }
+.author__urls a:hover i,
+.author__urls a:hover .fa,
+.author__urls a:hover .fas,
+.author__urls a:hover .fab {
+  color: #38bdf8 !important;
+}
+
+/* Sidebar non-link items (location, employer) */
+.sidebar ul li,
+.author__urls li {
+  color: #8b9ab0 !important;
+}
+
+/* Page title (rendered by layout as .page__title) */
+.page__title,
+h1.page__title,
+h2.page__title {
+  color: #e2e8f0 !important;
+}
 
 /* Page headings */
 .page__content h2 {
