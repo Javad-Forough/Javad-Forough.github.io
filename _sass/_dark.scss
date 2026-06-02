@@ -1,0 +1,294 @@
+/* ==========================================================================
+   Dark theme + hero/card styles — compiled as a standalone file
+   ========================================================================== */
+
+/* Force dark background on every container */
+html,
+body,
+.page,
+.initial-content,
+.page__inner-wrap,
+.page__content,
+.archive,
+.sidebar,
+.page__footer-follow,
+.page__footer-copyright {
+  background-color: #0d1117 !important;
+  color: #e2e8f0;
+}
+
+/* Override the compiled white html background */
+html { background: #0d1117 !important; }
+
+/* Page headings */
+.page__content h2 {
+  color: #e2e8f0 !important;
+  font-weight: 800 !important;
+  border-bottom: 2px solid #38bdf8 !important;
+  padding-bottom: 0.35rem !important;
+  margin-top: 2.2rem !important;
+}
+
+.page__content h3 {
+  color: #e2e8f0 !important;
+  font-weight: 700 !important;
+}
+
+.page__content h4 { color: #e2e8f0 !important; }
+
+.page__content p {
+  color: #cbd5e1;
+  line-height: 1.75;
+}
+
+.page__content a {
+  color: #38bdf8 !important;
+  transition: color 0.2s;
+}
+
+.page__content a:hover { color: #7dd3fc !important; }
+
+.page__content strong { color: #e2e8f0; }
+
+/* Author sidebar text */
+.author__name { color: #e2e8f0 !important; }
+
+.author__bio { color: #38bdf8 !important; }
+
+.author__urls a {
+  color: #8b9ab0 !important;
+}
+
+.author__urls a:hover {
+  color: #38bdf8 !important;
+}
+
+/* Location / employer items */
+.sidebar li {
+  color: #8b9ab0;
+}
+
+/* Greedy nav hidden items dropdown */
+.greedy-nav__toggle {
+  color: #e2e8f0 !important;
+}
+
+.hidden-links {
+  background: #161b22 !important;
+  border: 1px solid #253047 !important;
+}
+
+.hidden-links a {
+  color: #e2e8f0 !important;
+}
+
+.hidden-links a:hover {
+  background: #1a2233 !important;
+  color: #38bdf8 !important;
+}
+
+/* Hero banner */
+.hero-banner {
+  background: linear-gradient(135deg, #0a1628 0%, #0f2040 55%, #1a3a6b 100%) !important;
+  color: white !important;
+  padding: 3rem 2.5rem 2.5rem !important;
+  margin-bottom: 2rem !important;
+  border-radius: 12px !important;
+  border: 1px solid #253047 !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+.hero-banner h1 {
+  font-size: 2.4rem !important;
+  font-weight: 800 !important;
+  margin: 0 0 0.5rem !important;
+  color: white !important;
+  border: none !important;
+  letter-spacing: -0.02em !important;
+  line-height: 1.1 !important;
+}
+
+.hero-banner h1 strong { color: #7dd3fc !important; }
+
+.hero-tagline {
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, 0.72);
+  margin: 0 0 0.8rem;
+  min-height: 1.8rem;
+}
+
+.hero-typed {
+  color: #7dd3fc;
+  font-weight: 600;
+}
+
+.hero-sub {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0;
+  letter-spacing: 0.03em;
+}
+
+/* Research tiles */
+.research-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.9rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.research-tile {
+  background: #1a2233 !important;
+  border: 1px solid #253047 !important;
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.research-tile:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  border-color: #38bdf8 !important;
+}
+
+.tile-icon {
+  font-size: 1.2rem;
+  min-width: 1.8rem;
+  text-align: center;
+  color: #38bdf8;
+}
+
+.tile-content h4 {
+  margin: 0 0 0.25rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #e2e8f0 !important;
+}
+
+.tile-content p {
+  margin: 0;
+  font-size: 0.79rem;
+  color: #8b9ab0 !important;
+  line-height: 1.5;
+}
+
+/* Publication cards */
+.pub-card {
+  background: #1a2233 !important;
+  border: 1px solid #253047 !important;
+  border-radius: 12px;
+  padding: 1.3rem 1.6rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.pub-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  border-color: #38bdf8 !important;
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 0.97rem;
+  color: #e2e8f0 !important;
+  margin: 0 0 0.35rem;
+  line-height: 1.45;
+}
+
+.pub-authors {
+  font-size: 0.82rem;
+  color: #8b9ab0 !important;
+  margin: 0 0 0.6rem;
+}
+
+/* Demo cards */
+.demo-card {
+  background: #1a2233 !important;
+  border: 1px solid #253047 !important;
+  border-radius: 16px;
+  padding: 2rem 2.2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.demo-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+}
+
+.demo-card h3 {
+  margin-top: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #e2e8f0 !important;
+}
+
+.demo-card p {
+  color: #8b9ab0 !important;
+  line-height: 1.75;
+  margin-bottom: 1.2rem;
+}
+
+/* Nutshell timeline list */
+.nutshell-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+.nutshell-list li {
+  padding: 0.55rem 0.75rem 0.55rem 1rem;
+  border-left: 3px solid #38bdf8;
+  margin-bottom: 0.5rem;
+  border-radius: 0 8px 8px 0;
+  background: rgba(56, 189, 248, 0.05) !important;
+  color: #cbd5e1;
+  transition: background 0.2s;
+}
+
+.nutshell-list li:first-child {
+  background: rgba(56, 189, 248, 0.1) !important;
+}
+
+/* Tables */
+.page__content table {
+  background: #1a2233;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.page__content table th {
+  background: #0f2040 !important;
+  color: #e2e8f0 !important;
+  border: none !important;
+}
+
+.page__content table td {
+  background: #1a2233 !important;
+  color: #cbd5e1 !important;
+  border-color: #253047 !important;
+}
+
+.page__content table tr:nth-child(even) td {
+  background: #161b22 !important;
+}
+
+/* Footer */
+.page__footer { background: #0a1628 !important; }
+.page__footer footer { color: rgba(255,255,255,0.5) !important; }
+.page__footer a { color: #7dd3fc !important; }
+
+/* News section headings */
+.page__content p strong { color: #e2e8f0; }
+
+/* Service / plain content pages */
+.page__content li { color: #cbd5e1; }
